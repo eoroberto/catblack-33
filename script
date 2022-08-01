@@ -1,0 +1,10 @@
+
+function carregar(){
+    var msg = window.document.getElementById(msg)
+    var imag = window.document.getElementById(imag)
+    var dr = new Date ()
+    var hr = dr.getHours()
+       msg.innerHTML = `Agora são ${hr} horas.`
+
+  
+}

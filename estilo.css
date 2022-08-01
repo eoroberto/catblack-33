@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(67, 62, 62, 0.407);
+}
+h1{
+font: Courier;
+color: rgb(1, 1, 77);
+text-align: center;
+}
+p{
+font: bold;
+color: rgb(2, 2, 126);
+text-align: center;
+}
+
+
+section{
+    font: arial;
+    color: rgb(15, 15, 185);  
+    width: 150px;  /*largura */
+    padding: 150px; /*altura*/
+   margin: auto;
+    border-radius: 10%; /*o raio da borda */
+    box-shadow: 4px 4px 10px black; /*sonbras na borda */
+    background-color: rgb(24, 53, 218);
+}
+
+footer{
+    font-size: x-small;
+    text-align: center;
+    padding: 10px;
+}
